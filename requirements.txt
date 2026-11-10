@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+langchain-google-genai
+python-dotenv
+pandas
+openpyxl
+pydantic
+ipykernel
+tqdm
+fastapi
+uvicorn
+python-multipart
